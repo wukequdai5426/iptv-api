@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-07 18:35:43,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-11-09 18:31:22,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -636,10 +636,10 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-24.ctv
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-3.ctv
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-30.ctv
+广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-36.ctv
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-16.ctv
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-13.ctv
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-40.ctv
-广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-27.ctv
 大湾区卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010108
 大湾区卫视,http://z.b.bkpcp.top/m.php?id=dwqws
 大湾区卫视,http://goo.bkpcp.top/mg/dwqws
@@ -674,12 +674,12 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-38.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-32.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-2.m3u8
+广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-31.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-12.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-4.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-26.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-14.ctv
 广州竞赛,https://live.lalifeier.eu.org/gztv/jingsai.m3u8?t=1746307365&key=a9871a8d340d71198cae366f791f73b6
-广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-29.ctv
 江门综合,https://stream1.freetv.fun/jiang-men-zong-he-8.ctv
 江门综合,https://stream1.freetv.fun/jiang-men-zong-he-6.ctv
 江门综合,http://dslive.grtn.cn/jmzh/sd/live.m3u8
@@ -1119,12 +1119,12 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-13.m3u8
 生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-17.ctv
 生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-9.ctv
+生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-29.m3u8
 生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-5.ctv
 生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-4.ctv
+生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-24.m3u8
 生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-1.ctv
 生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-2.ctv
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-29.m3u8
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-24.m3u8
 第一财经,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 第一财经,http://ls.qingting.fm/live/276.m3u8
 第一财经,http://yc.myds.me:35455/itv/5000000010000027146.m3u8?cdn=bestzb
@@ -1411,11 +1411,11 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 金鹰纪实,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226572/1.m3u8
 金鹰纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226668/index.m3u8
 金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-2.ctv
+金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-9.m3u8
 金鹰纪实,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000334/index.m3u8?IASHttpSessionId=
 金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-5.ctv
 金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-7.ctv
 金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-23.m3u8
-金鹰纪实,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225595/index.m3u8?fmt=ts2hls
 湖南金鹰纪实,http://yc.myds.me:35455/itv/5000000011000031203.m3u8?cdn=bestzb
 湖南金鹰纪实,http://nas.suntao.online:35455/itv/5000000011000031203.m3u8?cdn=bestzb
 湖南金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-23.m3u8
@@ -1684,26 +1684,31 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南新闻,https://migu.188766.xyz/?migutoken=acb8228b02b6357f4eaa407b3c916613&id=hn_xwpd&type=sz
 海南新闻,https://migu.188766.xyz/?migutoken=5a5eb0049c67767b74da940af5285139&id=hn_xwpd&type=sz
 海南新闻,https://migu.188766.xyz/?migutoken=01106766b77f0c353ebb01658a12aed5&id=hn_xwpd&type=sz
+海南新闻,https://migu.188766.xyz/?migutoken=fb5e3d7df09828cc1af9a4cb83b275f8&id=hn_xwpd&type=sz
 海南自贸,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/1.m3u8
 海南自贸,https://migu.188766.xyz/?migutoken=95b0d51eeeb1ac02e1892bb0e429421c&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=d1ba989eb5e0af084e7e49f3f9c9aa89&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=66280bc79f0584980e93128b40fb2d8b&id=hn_jjpd&type=sz
+海南自贸,https://migu.188766.xyz/?migutoken=7279bad22a9be6ce734d7e4521316730&id=hn_jjpd&type=sz
 海南文旅,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/1.m3u8
 海南文旅,https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-7.m3u8
 海南文旅,https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-9.m3u8
 海南文旅,https://migu.188766.xyz/?migutoken=e87e23dd59cf43d18240c8f5a9a37b5a&id=hn_wlpd&type=sz
 海南文旅,https://migu.188766.xyz/?migutoken=d93de0e6562908ed7114e4f85fcda240&id=hn_wlpd&type=sz
 海南文旅,https://migu.188766.xyz/?migutoken=e518d267ca2aeba45e7c316ffde589e8&id=hn_wlpd&type=sz
+海南文旅,https://migu.188766.xyz/?migutoken=a1c865bf061cf1c3be09337e629ae887&id=hn_wlpd&type=sz
 海南少儿,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
 海南少儿,https://migu.188766.xyz/?migutoken=d001f5f5ff1b8b07ee43cba9afd93e31&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=0af0fce3f220a00decf233aa13610a1c&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=6eaa069383f63ab8eaf9cf3944f58538&id=hn_sepd&type=sz
+海南少儿,https://migu.188766.xyz/?migutoken=c7b89da86a4471484015ffb0477b9707&id=hn_sepd&type=sz
 海南公共,http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8
 海南公共,https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-8.m3u8
 海南公共,https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-9.m3u8
 海南公共,https://migu.188766.xyz/?migutoken=a76afeed8831109f15787b907840bb78&id=hn_ggpd&type=sz
 海南公共,https://migu.188766.xyz/?migutoken=5e02622aa8187e6598d70d4287928557&id=hn_ggpd&type=sz
 海南公共,https://migu.188766.xyz/?migutoken=98d3573a10faf8f81198801e263f1d8d&id=hn_ggpd&type=sz
+海南公共,https://migu.188766.xyz/?migutoken=4a1e021a6486886e62ea46c1a4b1de86&id=hn_ggpd&type=sz
 
 ☘️河南频道,#genre#
 梨园,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
@@ -2569,12 +2574,12 @@ CCTV-5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227348/index.m3
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-38.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-32.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-2.m3u8
+广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-31.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-12.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-4.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-26.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-14.ctv
 广州竞赛,https://live.lalifeier.eu.org/gztv/jingsai.m3u8?t=1746307365&key=a9871a8d340d71198cae366f791f73b6
-广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-29.ctv
 辽宁体育,https://stream1.freetv.fun/liao-zhu-ti-yu-5.m3u8
 辽宁体育,https://stream1.freetv.fun/liao-zhu-ti-yu-3.m3u8
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-8.m3u8
