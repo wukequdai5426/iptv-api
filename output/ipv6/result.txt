@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-17 18:46:04,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-11-19 18:35:34,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -614,12 +614,12 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-11.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-14.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-17.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-18.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-3.m3u8
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-30.m3u8
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-34.ctv
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-25.ctv
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-14.ctv
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-12.ctv
@@ -685,11 +685,11 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-38.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-32.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-2.m3u8
+广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-33.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-31.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-12.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-4.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-26.ctv
-广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-35.ctv
 江门综合,https://stream1.freetv.fun/jiang-men-zong-he-8.ctv
 江门综合,https://stream1.freetv.fun/jiang-men-zong-he-6.ctv
 江门综合,http://dslive.grtn.cn/jmzh/sd/live.m3u8
@@ -870,9 +870,9 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 遂昌新闻综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
 衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
 衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-2.m3u8
+衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-3.m3u8
 衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-1.m3u8
 衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-1.ctv
-衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-3.m3u8
 萧山生活,https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
 萧山新闻综合,https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
@@ -1374,12 +1374,12 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-4.m3u8
 湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-13.m3u8
 湖南都市,http://php.jdshipin.com:8880/iptv.php
+湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-9.m3u8
 湖南都市,http://php.jdshipin.com:8880/iptv.php?id=hnds
 湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-6.ctv
 湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-8.m3u8
 湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-12.ctv
 湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-1.m3u8
-湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-3.m3u8
 湖南经视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnjs
 湖南经视,https://stream1.freetv.fun/hu-nan-jing-shi-10.ctv
 湖南经视,https://stream1.freetv.fun/hu-nan-jing-shi-4.m3u8
@@ -1436,11 +1436,11 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 金鹰纪实,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226572/1.m3u8
 金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-37.m3u8
 金鹰纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226668/index.m3u8
+金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-35.m3u8
 金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-2.ctv
 金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-9.m3u8
 金鹰纪实,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000334/index.m3u8?IASHttpSessionId=
 金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-5.ctv
-金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-7.ctv
 湖南金鹰纪实,http://yc.myds.me:35455/itv/5000000011000031203.m3u8?cdn=bestzb
 湖南金鹰纪实,http://nas.suntao.online:35455/itv/5000000011000031203.m3u8?cdn=bestzb
 湖南金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-23.m3u8
@@ -1558,6 +1558,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 叙永综合,http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8?zsicd
 四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-3.ctv
 四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-4.ctv
+四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-1.m3u8
 广元综合,https://stream1.freetv.fun/yan-yuan-zong-he-1.m3u8
 广元综合,https://stream1.freetv.fun/yan-yuan-zong-he-2.ctv
 康巴卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225660
@@ -1723,6 +1724,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南自贸,https://migu.188766.xyz/?migutoken=08590deaf1a776fe524882943092627d&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=3e8917d537b968ee58829aa8fb7d2f43&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=eca1abdf02d586daba34dbb33ab8a021&id=hn_jjpd&type=sz
+海南自贸,https://migu.188766.xyz/?migutoken=07ef1bd2479e6bd0002a2f4a7d59498c&id=hn_jjpd&type=sz
 海南文旅,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/1.m3u8
 海南文旅,https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-7.m3u8
 海南文旅,https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-9.m3u8
@@ -1742,6 +1744,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南少儿,https://migu.188766.xyz/?migutoken=5a049ca629e4cf4da41cf7034e01910a&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=a5e852e9fea77dd86488c89835e1f7f4&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=f2d9624a5c101cd8219012e80433373c&id=hn_sepd&type=sz
+海南少儿,https://migu.188766.xyz/?migutoken=bf245a0c44e6a53a28b5377b3c5a62e3&id=hn_sepd&type=sz
 海南公共,http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8
 海南公共,https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-8.m3u8
 海南公共,https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-9.m3u8
@@ -2394,7 +2397,7 @@ CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
 CHC动作电影,http://data.3g.yy.com/live/hls/1382735573/1382735573
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-4.ctv
-CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-8.ctv
+CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-16.m3u8
 淘剧场,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
 淘剧场,http://dsj.motem.top:8880/bptv/10000100000000050000000003887497.m3u8
 淘剧场,http://missyao.com:35455/bptv/10000100000000050000000003887497.m3u8
@@ -2573,12 +2576,12 @@ CCTV-5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227348/index.m3
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-11.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-14.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-17.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-18.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-3.m3u8
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-30.m3u8
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-34.ctv
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
@@ -2626,11 +2629,11 @@ CCTV-5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227348/index.m3
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-38.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-32.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-2.m3u8
+广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-33.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-31.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-12.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-4.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-26.ctv
-广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-35.ctv
 辽宁体育,https://stream1.freetv.fun/liao-zhu-ti-yu-5.m3u8
 辽宁体育,https://stream1.freetv.fun/liao-zhu-ti-yu-3.m3u8
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-8.m3u8
@@ -2824,10 +2827,12 @@ CCTV-15,http://yc.myds.me:35455/gaoma/cctv15.m3u8
 笑傲江湖,http://lu.wqwqwq.sbs/yy/1354930909
 笑傲江湖,https://live.iill.top/huya/23865142
 笑傲江湖,http://live.iill.top/yy.php?id=1354282410
+笑傲江湖,https://live.ottiptv.cc/huya/26355790
 天龙八部,http://luobo.bkpcp.top/yy/1382736855
 天龙八部,http://www.clmy.cc:35455/yy/1355067965
 天龙八部,https://live.metshop.top/huya/23903123
 天龙八部,http://live.iill.top/yy.php?id=1351814644
+天龙八部,https://live.ottiptv.cc/huya/20985816
 鹿鼎记,http://live.iill.top/yy.php?id=1382704650
 仙剑奇侠传,http://live.iill.top/yy.php?id=1382749903
 西游记,https://live.iill.top/huya/26355861
@@ -2845,6 +2850,7 @@ CCTV-15,http://yc.myds.me:35455/gaoma/cctv15.m3u8
 封神榜,http://luobo.bkpcp.top/yy/1353426319
 封神榜,http://www.clmy.cc:35455/yy/1353426319
 封神榜,http://live.iill.top/yy.php?id=1353426319
+封神榜,http://live.ottiptv.cc/huya/29465849
 上海滩,http://luobo.bkpcp.top/yy/1382745184
 上海滩,http://live.iill.top/yy.php?id=1382745184
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
